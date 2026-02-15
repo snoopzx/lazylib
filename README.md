@@ -20,7 +20,6 @@ LazyLib is designed to make running Python scripts seamless by automating the bo
 
 * **Portability:** Share a script with someone and let LazyLib handle the setup for them.
 * **Clean Systems:** Keeps your global Python installation clean by forcing usage of Virtual Environments.
-* **CTF & Research Ready:** Perfect for running quick tools or scripts without worrying about dependency hell.
 * **Cross-Platform:** Includes logic for both Windows and Unix-based systems.
 
 ---
