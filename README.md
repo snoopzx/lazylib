@@ -26,6 +26,6 @@ LazyLib is designed to make running Python scripts seamless by automating the bo
 
 # Quick Usage
 
-### 1 | Running a Script
+Easy as hell I ain’t lying about the name
 ```bash
 python lazylib.py your_script.py
